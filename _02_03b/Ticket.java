@@ -6,9 +6,9 @@ public class Ticket { // A class named Ticket is created
 
   // 3 field variables in the class:
   // A field of type String called destination
-  String destination;
+  private String destination;
   // A field called price of type double
-  double price;
+  private double price;
   // A field called isReturn of type boolean
-  boolean isReturn;
+  private boolean isReturn;
 }
